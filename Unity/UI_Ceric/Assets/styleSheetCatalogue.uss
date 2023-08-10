@@ -1,0 +1,82 @@
+.containerRow {
+    height: auto;
+    flex-shrink: 1;
+    flex-grow: 0;
+    flex-direction: row;
+    flex-basis: auto;
+    flex-wrap: wrap;
+    align-items: stretch;
+    align-self: center;
+    justify-content: center;
+    width: auto;
+}
+
+.containerCatalogue {
+}
+
+.indvRingButton {
+    width: 400px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-top-left-radius: 48px;
+    border-bottom-left-radius: 48px;
+    border-top-right-radius: 48px;
+    border-bottom-right-radius: 48px;
+    font-size: 40px;
+    -unity-text-align: lower-center;
+    background-image: url('project://database/Assets/Art/Bkg/indvRingContainerBkgGradience.png?fileID=21300000&guid=aef0103981580794aa164627d748ea52&type=3#indvRingContainerBkgGradience');
+    color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+    background-color: rgba(0, 0, 0, 0);
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    height: 400px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    opacity: 0.95;
+}
+
+.imgRing {
+    flex-grow: 1;
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-scale-mode: scale-to-fit;
+    width: 75%;
+    height: 75%;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+}
+
+.toggleGiftbox {
+    flex-grow: 1;
+    background-color: rgba(0, 0, 0, 0);
+    position: absolute;
+    align-items: center;
+    width: 160px;
+    height: 160px;
+    align-self: flex-end;
+    justify-content: center;
+    right: -15px;
+    -unity-background-scale-mode: scale-to-fit;
+    top: -15px;
+    scale: 0.8 0.8;
+    opacity: 0.35;
+    background-image: url('project://database/Assets/Art/Icons/NavIcon_Giftbox.png?fileID=-1013911679&guid=ed2080cd49915ba42a4898a47280c94f&type=3#NavIcon_Giftbox_0');
+}
+
+.scrollView {
+    align-items: auto;
+}

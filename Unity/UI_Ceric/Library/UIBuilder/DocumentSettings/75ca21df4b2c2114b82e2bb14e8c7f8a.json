@@ -1,0 +1,30 @@
+{
+    "UxmlGuid": "75ca21df4b2c2114b82e2bb14e8c7f8a",
+    "UxmlPath": "Assets/Workflow/collections.uxml",
+    "CanvasX": 0,
+    "CanvasY": 0,
+    "CanvasWidth": 7572,
+    "CanvasHeight": 2048,
+    "MatchGameView": false,
+    "ZoomScale": 0.30000001192092898,
+    "PanOffset": {
+        "x": 51.85905456542969,
+        "y": 304.1051025390625
+    },
+    "ColorModeBackgroundOpacity": 0.0,
+    "ImageModeCanvasBackgroundOpacity": 1.0,
+    "CameraModeCanvasBackgroundOpacity": 1.0,
+    "EnableCanvasBackground": true,
+    "CanvasBackgroundMode": 0,
+    "CanvasBackgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "CanvasBackgroundImage": {
+        "instanceID": 0
+    },
+    "CanvasBackgroundImageScaleMode": 1,
+    "CanvasBackgroundCameraName": ""
+}
