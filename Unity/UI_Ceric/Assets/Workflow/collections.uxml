@@ -1,0 +1,57 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Workflow/styleSheetCollections.uss?fileID=7433441132597879392&amp;guid=e739fa5260e0ad248a016c11e247fcca&amp;type=3#styleSheetCollections" />
+    <ui:VisualElement name="ringCatalogue" class="catalogueContainer" style="flex-grow: 0; border-top-left-radius: 0; border-bottom-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; flex-basis: auto; width: auto; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; background-color: rgba(0, 0, 0, 0.39); flex-direction: flex-start; flex-wrap: nowrap;">
+        <ui:ScrollView horizontal-scroller-visibility="Hidden" vertical-scroller-visibility="Hidden" mode="Horizontal" name="ScrollView" class="scrollView" style="align-items: auto;">
+            <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconEngagementRed2.png?fileID=21300000&amp;guid=81faceac5d8200a47a51fd40e7e2058b&amp;type=3#CollectionsIconEngagementRed2&apos;); -unity-background-scale-mode: scale-and-crop;">
+                <ui:VisualElement name="Vignette" class="vignette" />
+                <ui:Label tabindex="-1" text="Designed to be as unique to you as your fingerprint" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                <ui:Label tabindex="-1" text="Engagement Rings" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" />
+            </ui:VisualElement>
+            <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconWeddingRed.png?fileID=21300000&amp;guid=7e4957c9b22e02b46872c57753095901&amp;type=3#CollectionsIconWeddingRed&apos;); -unity-background-scale-mode: scale-and-crop;">
+                <ui:VisualElement name="Vignette" class="vignette" />
+                <ui:Label tabindex="-1" text="Create the perfect complement to your engagement ring" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                <ui:Label tabindex="-1" text="Wedding Rings" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" style="justify-content: flex-start; align-items: stretch; opacity: 1; color: rgb(255, 255, 255); -unity-text-outline-width: 0;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconMenWeddingRed.png?fileID=21300000&amp;guid=9e46024ee5ca48f418ef0d0c547fb76e&amp;type=3#CollectionsIconMenWeddingRed&apos;); -unity-background-scale-mode: scale-and-crop;">
+                <ui:VisualElement name="Vignette" class="vignette" />
+                <ui:Label tabindex="-1" text="Bespoke and hand-crafted" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                <ui:Label tabindex="-1" text="Men&apos;s Wedding Rings" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" style="justify-content: flex-start; align-items: stretch; opacity: 1; color: rgb(255, 255, 255); -unity-text-outline-width: 0;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconEternityRed.png?fileID=21300000&amp;guid=028c3d2661bced84cb375975add3ac93&amp;type=3#CollectionsIconEternityRed&apos;); -unity-background-scale-mode: scale-and-crop;">
+                <ui:VisualElement name="Vignette" class="vignette" />
+                <ui:Label tabindex="-1" text="Especially for you" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                <ui:Label tabindex="-1" text="Eternity Rings" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" style="justify-content: flex-start; align-items: stretch; opacity: 1; color: rgb(255, 255, 255); -unity-text-outline-width: 0;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconDressRed.png?fileID=21300000&amp;guid=9ee406f0719424e4dbf3b108db4a4893&amp;type=3#CollectionsIconDressRed&apos;); -unity-background-scale-mode: scale-and-crop;">
+                <ui:VisualElement name="Vignette" class="vignette" />
+                <ui:Label tabindex="-1" text="By your imagination and your individuality" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                <ui:Label tabindex="-1" text="Dress Rings" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" style="justify-content: flex-start; align-items: stretch; opacity: 1; color: rgb(255, 255, 255); -unity-text-outline-width: 0;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconEarringsRed2.png?fileID=21300000&amp;guid=a80c15a65bd6542428b71fef01578f4c&amp;type=3#CollectionsIconEarringsRed2&apos;); -unity-background-scale-mode: scale-and-crop;">
+                <ui:VisualElement name="Vignette" class="vignette" />
+                <ui:Label tabindex="-1" text="Designed to suit your desire" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                <ui:Label tabindex="-1" text="Earrings" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" style="justify-content: flex-start; align-items: stretch; opacity: 1; color: rgb(255, 255, 255); -unity-text-outline-width: 0;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconPendantRed.png?fileID=21300000&amp;guid=adc78121e0f322e4fa98e47e84169a53&amp;type=3#CollectionsIconPendantRed&apos;); -unity-background-scale-mode: scale-and-crop;">
+                <ui:VisualElement name="Vignette" class="vignette" />
+                <ui:Label tabindex="-1" text="A range of metal types and gemstones" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                <ui:Label tabindex="-1" text="Pendants" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" style="justify-content: flex-start; align-items: stretch; opacity: 1; color: rgb(255, 255, 255); -unity-text-outline-width: 0;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconBraceletRed.png?fileID=21300000&amp;guid=e2bf12c4ea7edd4479e153edd6ac1283&amp;type=3#CollectionsIconBraceletRed&apos;); -unity-background-scale-mode: scale-and-crop;">
+                <ui:VisualElement name="Vignette" class="vignette" />
+                <ui:Label tabindex="-1" text="Unique designs that matches your individuality" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                <ui:Label tabindex="-1" text="Bracelets" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" style="justify-content: flex-start; align-items: stretch; opacity: 1; color: rgb(255, 255, 255); -unity-text-outline-width: 0;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconBridalJewelleryRed.png?fileID=21300000&amp;guid=2ea205f421fd7be4ba059eb61e9bd2e3&amp;type=3#CollectionsIconBridalJewelleryRed&apos;); -unity-background-scale-mode: scale-and-crop;">
+                <ui:VisualElement name="Vignette" class="vignette" />
+                <ui:Label tabindex="-1" text="Add sparkling detail to your perfect wedding day" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                <ui:Label tabindex="-1" text="Bridal jewellery" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" style="justify-content: flex-start; align-items: stretch; opacity: 1; color: rgb(255, 255, 255); -unity-text-outline-width: 0;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconDebossRed.png?fileID=21300000&amp;guid=8ff1e987841d50c438e5d486100109ec&amp;type=3#CollectionsIconDebossRed&apos;); -unity-background-scale-mode: scale-and-crop;">
+                <ui:VisualElement name="Vignette" class="vignette" />
+                <ui:Label tabindex="-1" text="Imprint your unique style" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                <ui:Label tabindex="-1" text="Deboss Collection" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" style="justify-content: flex-start; align-items: stretch; opacity: 1; color: rgb(255, 255, 255); -unity-text-outline-width: 0;" />
+            </ui:VisualElement>
+        </ui:ScrollView>
+    </ui:VisualElement>
+</ui:UXML>

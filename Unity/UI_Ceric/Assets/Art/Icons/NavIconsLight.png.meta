@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 1c3a47ab95c830645a2a8ac6cd1e66a7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NavIconsLight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d55d4c6b7e8b043b1f1ab233ba6331
+      internalID: -1022553630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_1
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 3200.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da054d1ac5cefa84e9da8d25e7cfc531
+      internalID: 1374587965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_2
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 3200.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f575d504ca956b45b69ca7b204dca25
+      internalID: 813698742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_3
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 3200.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dab6bafbbadca247ba048ad3de4bde3
+      internalID: 431756749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_4
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 3200.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a117009495684ab847291d4da0122
+      internalID: -1858280147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_5
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 3200.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4b5f3636179c242ad9df065420cc5d
+      internalID: -1844396091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_6
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 3200.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110e25fab091f6941a1eed0d979111f5
+      internalID: -356905718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_7
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 3200.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74bf7d0313e29a4994ecc1cc2a7e9cd
+      internalID: -1652276882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2134.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aca1a22e8a6b234b9a077c6c8a1017c
+      internalID: -1714589606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_9
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2134.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2713a132a5a8e43862db4068b9d67c
+      internalID: 1269778541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_10
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 2134.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ccca655d368e40bcd5c16e6367998
+      internalID: 985175827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_11
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 2134.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a5bf6c5be22204ba54b84e152bd375
+      internalID: 168586435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_12
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 2134.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145c850f807fd1a4da385fd2d9beec17
+      internalID: 247535521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_13
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 2134.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b6a84b2b206a045a4f958c46f2302c
+      internalID: 1461242436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_14
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 2134.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779af6396991804cb2b53c2af7717ea
+      internalID: 329385836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_15
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 2134.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f55a983d10c32e4caec004ecc201e85
+      internalID: 1243663715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1068.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7884c0f201d6fc43a7c40b89269ed21
+      internalID: -541785096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_17
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1068.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aa3a1d1a14a1f468cdf152de92feaf
+      internalID: -1480993858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_18
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1068.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5b2cebd16948c44b2c3fb27fa6cc1d
+      internalID: 2113957235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_19
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1068.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56692cb513cc46345a9d86d762386d50
+      internalID: 150842583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_20
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 1068.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e9c3e39d8997e41b92f2fec9f35a21
+      internalID: -1589871471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_21
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 1068.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d5563c3c7390c4b81f875a58cab601
+      internalID: -1910946466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_22
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 1068.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026ae2cd01546aa489e6f77ae0300db8
+      internalID: 357137990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_23
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 1068.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5948ec263060efa4481767cb8e4895d0
+      internalID: 768364414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef950e27d5b3be946929e5cd7ba85dc1
+      internalID: 128673890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_25
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be65f55b0620a3e458d2cf8d414b4895
+      internalID: -202462950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_26
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 2.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af06c6f88d2aefc4ab907448e73f0216
+      internalID: 1296110982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_27
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 2.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b24f1e7cc97a7c45a3d8c553a1117a7
+      internalID: 136173568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_28
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 2.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5acd85e58a3dcc40ac657545e9e2d13
+      internalID: 2133086932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_29
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 2.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680aba07c628394299a0798efc9cac6
+      internalID: 479355837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_30
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 2.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f11f95934145498605209befe305a
+      internalID: -624676554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavIconsLight_31
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 2.25
+        width: 1066.75
+        height: 1066.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81e4870687827643a09360f8330b9d9
+      internalID: -1573408621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NavIconsLight_0: -1022553630
+      NavIconsLight_30: -624676554
+      NavIconsLight_14: 329385836
+      NavIconsLight_6: -356905718
+      NavIconsLight_9: 1269778541
+      NavIconsLight_19: 150842583
+      NavIconsLight_12: 247535521
+      NavIconsLight_25: -202462950
+      NavIconsLight_27: 136173568
+      NavIconsLight_3: 431756749
+      NavIconsLight_15: 1243663715
+      NavIconsLight_28: 2133086932
+      NavIconsLight_4: -1858280147
+      NavIconsLight_13: 1461242436
+      NavIconsLight_21: -1910946466
+      NavIconsLight_11: 168586435
+      NavIconsLight_24: 128673890
+      NavIconsLight_29: 479355837
+      NavIconsLight_10: 985175827
+      NavIconsLight_18: 2113957235
+      NavIconsLight_31: -1573408621
+      NavIconsLight_20: -1589871471
+      NavIconsLight_22: 357137990
+      NavIconsLight_1: 1374587965
+      NavIconsLight_2: 813698742
+      NavIconsLight_8: -1714589606
+      NavIconsLight_5: -1844396091
+      NavIconsLight_17: -1480993858
+      NavIconsLight_23: 768364414
+      NavIconsLight_7: -1652276882
+      NavIconsLight_26: 1296110982
+      NavIconsLight_16: -541785096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
