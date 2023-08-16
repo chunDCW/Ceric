@@ -3,13 +3,13 @@
     "UxmlPath": "Assets/Workflow/catalogue.uxml",
     "CanvasX": 0,
     "CanvasY": 0,
-    "CanvasWidth": 2732,
-    "CanvasHeight": 2048,
+    "CanvasWidth": 2388,
+    "CanvasHeight": 1668,
     "MatchGameView": true,
-    "ZoomScale": 1.0499999523162842,
+    "ZoomScale": 0.25,
     "PanOffset": {
-        "x": -550.3392333984375,
-        "y": -1308.3861083984375
+        "x": -12.297012329101563,
+        "y": 259.59283447265627
     },
     "ColorModeBackgroundOpacity": 1.0,
     "ImageModeCanvasBackgroundOpacity": 1.0,

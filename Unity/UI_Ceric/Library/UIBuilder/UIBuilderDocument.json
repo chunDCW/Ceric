@@ -17,46 +17,46 @@
                     {
                         "m_StyleSheet": {
                             "fileID": 7433441132597879392,
-                            "guid": "d6e0d2aaae12cf647acaad76a8b6e759",
+                            "guid": "e739fa5260e0ad248a016c11e247fcca",
                             "type": 3
                         },
                         "m_BackupStyleSheet": {
                             "instanceID": 0
                         },
-                        "m_OldPath": "Assets/styleSheetCatalogue.uss"
+                        "m_OldPath": "Assets/Workflow/styleSheetCollections.uss"
                     }
                 ],
                 "m_VisualTreeAssetBackup": {
                     "instanceID": 0
                 },
-                "m_OpenendVisualTreeAssetOldPath": "Assets/Workflow/catalogue.uxml",
+                "m_OpenendVisualTreeAssetOldPath": "Assets/Workflow/collections.uxml",
                 "m_VisualTreeAsset": {
                     "fileID": 9197481963319205126,
-                    "guid": "8067d24d2ab619e489e547419fe9ff9d",
+                    "guid": "75ca21df4b2c2114b82e2bb14e8c7f8a",
                     "type": 3
                 },
                 "m_ActiveStyleSheet": {
                     "fileID": 7433441132597879392,
-                    "guid": "d6e0d2aaae12cf647acaad76a8b6e759",
+                    "guid": "e739fa5260e0ad248a016c11e247fcca",
                     "type": 3
                 },
                 "m_Settings": {
-                    "UxmlGuid": "8067d24d2ab619e489e547419fe9ff9d",
-                    "UxmlPath": "Assets/Workflow/catalogue.uxml",
+                    "UxmlGuid": "75ca21df4b2c2114b82e2bb14e8c7f8a",
+                    "UxmlPath": "Assets/Workflow/collections.uxml",
                     "CanvasX": 0,
-                    "CanvasY": 0,
-                    "CanvasWidth": 2732,
-                    "CanvasHeight": 2048,
-                    "MatchGameView": true,
-                    "ZoomScale": 1.0499999523162842,
+                    "CanvasY": -12,
+                    "CanvasWidth": 2048,
+                    "CanvasHeight": 2744,
+                    "MatchGameView": false,
+                    "ZoomScale": 0.25,
                     "PanOffset": {
-                        "x": -550.3392333984375,
-                        "y": -1308.3861083984375
+                        "x": 3.566131591796875,
+                        "y": 44.98698043823242
                     },
-                    "ColorModeBackgroundOpacity": 1.0,
+                    "ColorModeBackgroundOpacity": 0.0,
                     "ImageModeCanvasBackgroundOpacity": 1.0,
                     "CameraModeCanvasBackgroundOpacity": 1.0,
-                    "EnableCanvasBackground": false,
+                    "EnableCanvasBackground": true,
                     "CanvasBackgroundMode": 0,
                     "CanvasBackgroundColor": {
                         "r": 0.0,
