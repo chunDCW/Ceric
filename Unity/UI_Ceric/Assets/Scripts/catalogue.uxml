@@ -1,0 +1,29 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Template name="catalogueCollectionButton" src="project://database/Assets/Templates/catalogueCollectionButton.uxml?fileID=9197481963319205126&amp;guid=b60c7fcd97beb134b8e483e0b0d77cec&amp;type=3#catalogueCollectionButton" />
+    <Style src="project://database/Assets/Scripts/styleSheetCollections.uss?fileID=7433441132597879392&amp;guid=e739fa5260e0ad248a016c11e247fcca&amp;type=3#styleSheetCollections" />
+    <ui:VisualElement name="upper" tabindex="0" style="flex-grow: 0; height: 20%; flex-direction: row; flex-shrink: 0;">
+        <ui:VisualElement name="ringCatalogue" class="catalogueContainer" style="background-color: rgba(0, 0, 0, 0.78);">
+            <ui:ScrollView horizontal-scroller-visibility="Hidden" vertical-scroller-visibility="Hidden" mode="Horizontal" name="ScrollView" touch-scroll-type="Elastic" elasticity="0.02" class="scrollView" style="height: 100%;">
+                <ui:Instance template="catalogueCollectionButton" name="catalogueCollectionButton" />
+                <ui:Instance template="catalogueCollectionButton" name="catalogueCollectionButton" />
+                <ui:VisualElement name="catalogueCollectionButton">
+                    <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconEngagementRed2.png?fileID=21300000&amp;guid=81faceac5d8200a47a51fd40e7e2058b&amp;type=3#CollectionsIconEngagementRed2&apos;); -unity-background-scale-mode: scale-and-crop;">
+                        <ui:VisualElement name="Vignette" class="vignette" />
+                        <ui:Label tabindex="0" text="Designed to be as unique to you as your fingerprint" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+                        <ui:Label tabindex="0" text="Engagement Rings" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:Instance template="catalogueCollectionButton" name="catalogueCollectionButton" />
+                <ui:Instance template="catalogueCollectionButton" name="catalogueCollectionButton" />
+                <ui:Instance template="catalogueCollectionButton" name="catalogueCollectionButton" />
+                <ui:Instance template="catalogueCollectionButton" name="catalogueCollectionButton" />
+            </ui:ScrollView>
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="middle" tabindex="0" style="flex-direction: column; flex-wrap: wrap; height: 65%; flex-grow: 0; flex-shrink: 0; align-self: center; align-items: flex-start; justify-content: center;">
+        <ui:ScrollView name="catalogueScrollViewRingButtons" horizontal-scroller-visibility="Hidden" vertical-scroller-visibility="Hidden" touch-scroll-type="Elastic" elasticity="0.02" style="flex-direction: column; margin-left: 10%; margin-right: 10%; margin-top: 3%; margin-bottom: 3%; flex-wrap: wrap; flex-grow: 0; flex-shrink: 0;">
+            <ui:VisualElement name="catalogueContainerRingButtons" style="flex-grow: 0; background-color: rgba(0, 0, 0, 0); flex-direction: row; flex-wrap: wrap; align-self: center; align-items: flex-start; justify-content: center; flex-shrink: 0;" />
+        </ui:ScrollView>
+    </ui:VisualElement>
+    <ui:VisualElement name="lower" style="flex-grow: 0; background-color: rgba(0, 0, 0, 0); height: 15%; flex-shrink: 0;" />
+</ui:UXML>

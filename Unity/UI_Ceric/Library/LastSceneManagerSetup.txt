@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ring3DViewer.unity
+- path: Assets/Scenes/catalogue.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

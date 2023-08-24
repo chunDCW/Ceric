@@ -58,14 +58,19 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.2.5f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Workflow\UIRing3DViewer.cs" />
-    <Compile Include="Assets\Workflow\UICatalogue.cs" />
+    <Compile Include="Assets\Scripts\UIRingButtons.cs" />
+    <Compile Include="Assets\Scripts\UICatalogue.cs" />
+    <Compile Include="Assets\Scripts\UIRing3DViewer.cs" />
+    <Compile Include="Assets\Scripts\UICustomiseMenuOptions.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Workflow\catalogue.uxml" />
-    <None Include="Assets\Workflow\styleSheetCollections.uss" />
-    <None Include="Assets\Workflow\ring3DViewer.uxml" />
-    <None Include="Assets\Workflow\bkg.uxml" />
+    <None Include="Assets\Scripts\catalogue.uxml" />
+    <None Include="Assets\Templates\catalogueCollectionButton.uxml" />
+    <None Include="Assets\Templates\catalogueRingButton.uxml" />
+    <None Include="Assets\Scripts\styleSheetCollections.uss" />
+    <None Include="Assets\Scripts\ring3DViewer.uxml" />
+    <None Include="Assets\Scripts\bkg.uxml" />
+    <None Include="Assets\Templates\catalogueRingButton.uss" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

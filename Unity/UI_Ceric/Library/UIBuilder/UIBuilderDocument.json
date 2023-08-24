@@ -17,41 +17,41 @@
                     {
                         "m_StyleSheet": {
                             "fileID": 7433441132597879392,
-                            "guid": "e739fa5260e0ad248a016c11e247fcca",
+                            "guid": "ae4252420cc6f0944b8177ef08ce1c8e",
                             "type": 3
                         },
                         "m_BackupStyleSheet": {
                             "instanceID": 0
                         },
-                        "m_OldPath": "Assets/Workflow/styleSheetCollections.uss"
+                        "m_OldPath": "Assets/Templates/catalogueRingButton.uss"
                     }
                 ],
                 "m_VisualTreeAssetBackup": {
                     "instanceID": 0
                 },
-                "m_OpenendVisualTreeAssetOldPath": "Assets/Workflow/ring3DViewer.uxml",
+                "m_OpenendVisualTreeAssetOldPath": "Assets/Templates/catalogueRingButton.uxml",
                 "m_VisualTreeAsset": {
                     "fileID": 9197481963319205126,
-                    "guid": "7a7b2ff14e80d5843a928511985fb621",
+                    "guid": "e7372c0258ece804f9303cc0acb6bee3",
                     "type": 3
                 },
                 "m_ActiveStyleSheet": {
                     "fileID": 7433441132597879392,
-                    "guid": "e739fa5260e0ad248a016c11e247fcca",
+                    "guid": "ae4252420cc6f0944b8177ef08ce1c8e",
                     "type": 3
                 },
                 "m_Settings": {
-                    "UxmlGuid": "7a7b2ff14e80d5843a928511985fb621",
-                    "UxmlPath": "Assets/Workflow/ring3DViewer.uxml",
-                    "CanvasX": 4,
+                    "UxmlGuid": "e7372c0258ece804f9303cc0acb6bee3",
+                    "UxmlPath": "Assets/Templates/catalogueRingButton.uxml",
+                    "CanvasX": 0,
                     "CanvasY": 0,
-                    "CanvasWidth": 2732,
-                    "CanvasHeight": 2048,
+                    "CanvasWidth": 400,
+                    "CanvasHeight": 400,
                     "MatchGameView": false,
-                    "ZoomScale": 0.4000000059604645,
+                    "ZoomScale": 0.8500000238418579,
                     "PanOffset": {
-                        "x": 2.888092041015625,
-                        "y": 25.12762451171875
+                        "x": 57.72557067871094,
+                        "y": 171.34722900390626
                     },
                     "ColorModeBackgroundOpacity": 1.0,
                     "ImageModeCanvasBackgroundOpacity": 1.0,

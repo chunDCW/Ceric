@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="catalogueCollectionButton">
+        <ui:VisualElement name="indvRingContainer" class="indvRingContainer" style="background-image: url(&apos;project://database/Assets/Art/Icons/CollectionsIcons/CollectionsIconEngagementRed2.png?fileID=21300000&amp;guid=81faceac5d8200a47a51fd40e7e2058b&amp;type=3#CollectionsIconEngagementRed2&apos;); -unity-background-scale-mode: scale-and-crop;">
+            <ui:VisualElement name="Vignette" class="vignette" />
+            <ui:Label tabindex="0" text="Designed to be as unique to you as your fingerprint" display-tooltip-when-elided="true" name="indvRingDescription" binding-path="Classic" class="labelDescription" />
+            <ui:Label tabindex="0" text="Engagement Rings" display-tooltip-when-elided="true" name="indvRingTitle" binding-path="Classic" focusable="false" class="labelTitle" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
