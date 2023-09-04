@@ -1,15 +1,15 @@
 {
     "UxmlGuid": "7a7b2ff14e80d5843a928511985fb621",
-    "UxmlPath": "Assets/Workflow/ring3DViewer.uxml",
-    "CanvasX": 4,
+    "UxmlPath": "Assets/Scripts/ring3DViewer.uxml",
+    "CanvasX": 0,
     "CanvasY": 0,
     "CanvasWidth": 2732,
     "CanvasHeight": 2048,
     "MatchGameView": false,
-    "ZoomScale": 0.30000001192092898,
+    "ZoomScale": 0.3499999940395355,
     "PanOffset": {
-        "x": 24.623703002929689,
-        "y": 113.59344482421875
+        "x": 12.561077117919922,
+        "y": 71.94439697265625
     },
     "ColorModeBackgroundOpacity": 1.0,
     "ImageModeCanvasBackgroundOpacity": 1.0,

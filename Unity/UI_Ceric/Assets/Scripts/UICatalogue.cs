@@ -21,13 +21,12 @@ public class UICatalogue : MonoBehaviour
         //var templateCatalogueRingButton = catalogueRingButtonVisualTree.Q<Button>("catalogueRingButton");
         Debug.Log(catalogueRingButtonVisualTree.GetInstanceID());
         Debug.Log(catalogueRingButtonVisualTree.GetType());
-
         //settingsButton = root.Q<Button>("settingsButton");
         //settingsButton.clicked += OnSettingsButtonClicked;
 
         VisualElement catalogueContainerRingButtons = root.Q<VisualElement>("catalogueContainerRingButtons");
-     
-        for (int i = 0; i < 30; i++)
+
+        for (int i = 0; i < 5; i++)
         {
             VisualElement catalogueRingButtonTemplate = catalogueRingButtonVisualTree.Instantiate();
             //set image

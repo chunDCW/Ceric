@@ -3,13 +3,13 @@
     "UxmlPath": "Assets/Templates/catalogueRingButton.uxml",
     "CanvasX": 0,
     "CanvasY": 0,
-    "CanvasWidth": 400,
-    "CanvasHeight": 400,
-    "MatchGameView": false,
-    "ZoomScale": 0.8500000238418579,
+    "CanvasWidth": 2732,
+    "CanvasHeight": 2048,
+    "MatchGameView": true,
+    "ZoomScale": 1.0,
     "PanOffset": {
-        "x": 57.72557067871094,
-        "y": 171.34722900390626
+        "x": 20.0,
+        "y": 20.0
     },
     "ColorModeBackgroundOpacity": 1.0,
     "ImageModeCanvasBackgroundOpacity": 1.0,

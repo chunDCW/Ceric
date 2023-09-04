@@ -133,7 +133,8 @@ GameObject:
   m_Component:
   - component: {fileID: 307339581}
   - component: {fileID: 307339580}
-  - component: {fileID: 307339582}
+  - component: {fileID: 307339583}
+  - component: {fileID: 307339584}
   m_Layer: 5
   m_Name: UIcollections
   m_TagString: Untagged
@@ -172,7 +173,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &307339582
+--- !u!114 &307339583
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -184,6 +185,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ddad67eb44c0164193863f142628cd0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &307339584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 307339579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abb73e098792f094c9d78147bedee8e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ringButtonTemplate: {fileID: 9197481963319205126, guid: e7372c0258ece804f9303cc0acb6bee3, type: 3}
+  ringButtonStyles: {fileID: 7433441132597879392, guid: ae4252420cc6f0944b8177ef08ce1c8e, type: 3}
+  ringButtonUI: {fileID: 307339580}
 --- !u!1 &345851805
 GameObject:
   m_ObjectHideFlags: 0

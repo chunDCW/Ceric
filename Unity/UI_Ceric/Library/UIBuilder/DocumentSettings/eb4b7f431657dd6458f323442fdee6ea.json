@@ -1,15 +1,15 @@
 {
     "UxmlGuid": "eb4b7f431657dd6458f323442fdee6ea",
-    "UxmlPath": "Assets/Workflow/bkgHome.uxml",
+    "UxmlPath": "Assets/Scripts/bkg.uxml",
     "CanvasX": 0,
     "CanvasY": 0,
-    "CanvasWidth": 2388,
-    "CanvasHeight": 1668,
-    "MatchGameView": true,
-    "ZoomScale": 0.30000001192092898,
+    "CanvasWidth": 350,
+    "CanvasHeight": 450,
+    "MatchGameView": false,
+    "ZoomScale": 1.0,
     "PanOffset": {
-        "x": -121.50001525878906,
-        "y": 18.5999755859375
+        "x": 20.0,
+        "y": 20.0
     },
     "ColorModeBackgroundOpacity": 1.0,
     "ImageModeCanvasBackgroundOpacity": 1.0,

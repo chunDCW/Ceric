@@ -7,7 +7,7 @@
         "m_CurrentCanvasTheme": 4,
         "m_CurrentCanvasThemeStyleSheetReference": {
             "fileID": -4733365628477956816,
-            "guid": "24c82ff2d13c0c74b814133d7f1ff019",
+            "guid": "6f95556c412239c4c8cbcb90fa0a041a",
             "type": 3
         },
         "m_CodePreviewVisible": true,
@@ -45,13 +45,13 @@
                     "UxmlPath": "Assets/Templates/catalogueRingButton.uxml",
                     "CanvasX": 0,
                     "CanvasY": 0,
-                    "CanvasWidth": 400,
-                    "CanvasHeight": 400,
-                    "MatchGameView": false,
-                    "ZoomScale": 0.8500000238418579,
+                    "CanvasWidth": 2732,
+                    "CanvasHeight": 2048,
+                    "MatchGameView": true,
+                    "ZoomScale": 1.0,
                     "PanOffset": {
-                        "x": 57.72557067871094,
-                        "y": 171.34722900390626
+                        "x": 20.0,
+                        "y": 20.0
                     },
                     "ColorModeBackgroundOpacity": 1.0,
                     "ImageModeCanvasBackgroundOpacity": 1.0,

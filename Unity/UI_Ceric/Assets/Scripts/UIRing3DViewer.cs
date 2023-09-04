@@ -74,6 +74,7 @@ public class UIRing3DViewer : MonoBehaviour
 
         //ARButton
         ARButton = root.Q<Button>("ARButton");
+        ARButton.clicked += OnARButtonClicked;
 
 
     }
@@ -89,6 +90,11 @@ public class UIRing3DViewer : MonoBehaviour
             mainCamera.transform.position = Vector3.MoveTowards(mainCamera.transform.position, cameraTargetPosition, cameraSpeed);
         }
         cameraMove = false;
+    }
+
+    void OnARButtonClicked()
+    {
+        
     }
 
     void OnCatalogueButtonClicked()
@@ -156,7 +162,6 @@ public class UIRing3DViewer : MonoBehaviour
 
         Debug.Log("mainMenuButton is clicked");
         Debug.Log(Screen.currentResolution.width + " " + Screen.currentResolution.height);
-
     }
 
     void OnCustomiseButtonClicked()
